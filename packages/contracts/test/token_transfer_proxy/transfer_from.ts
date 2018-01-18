@@ -1,9 +1,9 @@
 import * as chai from 'chai';
 
-import { Artifacts } from '../../../util/artifacts';
-import { Balances } from '../../../util/balances';
-import { constants } from '../../../util/constants';
-import { ContractInstance } from '../../../util/types';
+import { Artifacts } from '../../util/artifacts';
+import { Balances } from '../../util/balances';
+import { constants } from '../../util/constants';
+import { ContractInstance } from '../../util/types';
 import { chaiSetup } from '../utils/chai_setup';
 
 chaiSetup.configure();
